@@ -34,11 +34,12 @@ An intelligent agent that navigates a 2D grid using A* pathfinding to clean dirt
 ---
 
 ## 🖼️ Screenshots
-Add screenshots of your GUI here:
-```
-[ GUI showing grid layout ]
-[ Agent path to dirty tiles ]
-```
+
+![Initial Grid Layout](screenshot1.png)  
+*Initial environment with dirt and walls*
+
+![Agent Cleaning in Action](screenshot2.png)  
+*Agent cleaned all tiles using A* pathfinding*
 
 ---
 
