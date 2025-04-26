@@ -35,10 +35,10 @@ An intelligent agent that navigates a 2D grid using A* pathfinding to clean dirt
 
 ## 🖼️ Screenshots
 
-![Initial Grid Layout](screenshot1.png)  
+![Initial Grid Layout](https://github.com/scvanama612/smart-vacuum-agent/raw/main/Screenshot1.png)  
 *Initial environment with dirt and walls*
 
-![Agent Cleaning in Action](screenshot2.png)  
+![Agent Cleaning in Action](https://github.com/scvanama612/smart-vacuum-agent/raw/main/Screenshot2.png)  
 *Agent cleaned all tiles using A* pathfinding*
 
 ---
